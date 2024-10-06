@@ -1,0 +1,18 @@
+
+.slick-next:before,
+.slick-prev:before{
+color: orange !important;
+}
+.slick-next:before::hover,
+.slick-prev:before::hover{
+color: red !important;
+}
+.meal img{
+    padding: 5px;
+    border: 1px solid orange;
+}
+
+.meal p{
+    padding: 5px;
+    border: 1px solid orange;
+}

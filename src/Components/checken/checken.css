@@ -1,0 +1,23 @@
+.la .bttn {
+  position: absolute;
+  top: 6px;
+  right: -60px;
+}
+
+.la:hover .bttn {
+  position: absolute;
+  top: 6px;
+  right: 4px;
+  transition-duration: 0.5s;
+}
+
+.la .info {
+  position: absolute;
+  bottom: -160px;
+}
+
+.la:hover .info {
+  position: absolute;
+  transition-duration: 0.5s;
+  bottom: 0px;
+}

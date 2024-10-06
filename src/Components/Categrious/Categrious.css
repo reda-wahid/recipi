@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Margarine&family=Noto+Sans+Arabic:wght@100..900&display=swap');
+div h3{
+    font-family: "Margarine", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.slide p {
+  position: absolute;
+  top: 46%;
+
+}
+
+
+
+.categrios .slide .slick-next {
+  right: 12px;
+  opacity: 1
+}
+
+.categrios .slide .slick-prev {
+  color: red !important;
+  left: 20px !important;
+  z-index: 1;
+  opacity: 1
+}

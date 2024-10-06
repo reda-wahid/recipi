@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Margarine&family=Noto+Sans+Arabic:wght@100..900&display=swap');
+div p{
+    font-family: "Margarine", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.active{
+border-bottom: 2px solid orange;
+box-shadow: 5px 4px 3px orange;
+color: orange;
+}
+
+ul li{
+outline: none;
+padding: 6px;
+}
